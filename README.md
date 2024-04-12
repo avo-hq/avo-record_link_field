@@ -9,4 +9,3 @@ Docs available at [https://docs.avohq.io/3.0/fields/record_link.html](https://do
 ```ruby
 field :post, as: :record_link
 ```
-
