@@ -20,7 +20,7 @@ js_bundle_metadata.json
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-/avo-money_field*.gem
+/avo-*.gem
 
 # Ignore uploaded files in development.
 /storage/*

@@ -1,0 +1,3 @@
+<%= index_field_wrapper **field_wrapper_args do %>
+  <%= render Avo::RecordLinkField::Fields::RecordLinkField::CommonRecordLinkComponent.new record: @field.value, use_resource: @field.use_resource, add_via_params: @field.add_via_params %>
+<% end %>
